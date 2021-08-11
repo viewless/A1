@@ -1,0 +1,16 @@
+D:\Developer\Default Projects Location\Calculator\Zoo\bin\Debug\net5.0\Zoo.exe
+D:\Developer\Default Projects Location\Calculator\Zoo\bin\Debug\net5.0\Zoo.deps.json
+D:\Developer\Default Projects Location\Calculator\Zoo\bin\Debug\net5.0\Zoo.runtimeconfig.json
+D:\Developer\Default Projects Location\Calculator\Zoo\bin\Debug\net5.0\Zoo.runtimeconfig.dev.json
+D:\Developer\Default Projects Location\Calculator\Zoo\bin\Debug\net5.0\Zoo.dll
+D:\Developer\Default Projects Location\Calculator\Zoo\bin\Debug\net5.0\ref\Zoo.dll
+D:\Developer\Default Projects Location\Calculator\Zoo\bin\Debug\net5.0\Zoo.pdb
+D:\Developer\Default Projects Location\Calculator\Zoo\obj\Debug\net5.0\Zoo.csproj.AssemblyReference.cache
+D:\Developer\Default Projects Location\Calculator\Zoo\obj\Debug\net5.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\Default Projects Location\Calculator\Zoo\obj\Debug\net5.0\Zoo.AssemblyInfoInputs.cache
+D:\Developer\Default Projects Location\Calculator\Zoo\obj\Debug\net5.0\Zoo.AssemblyInfo.cs
+D:\Developer\Default Projects Location\Calculator\Zoo\obj\Debug\net5.0\Zoo.csproj.CoreCompileInputs.cache
+D:\Developer\Default Projects Location\Calculator\Zoo\obj\Debug\net5.0\Zoo.dll
+D:\Developer\Default Projects Location\Calculator\Zoo\obj\Debug\net5.0\ref\Zoo.dll
+D:\Developer\Default Projects Location\Calculator\Zoo\obj\Debug\net5.0\Zoo.pdb
+D:\Developer\Default Projects Location\Calculator\Zoo\obj\Debug\net5.0\Zoo.genruntimeconfig.cache

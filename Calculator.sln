@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{0EE39168-848E-478A-BAC3-969BC8153CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{C8BE03F8-0452-4D76-A14F-71A03A26473B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystem", "TicketSystem\TicketSystem.csproj", "{817625ED-292F-4075-AB1D-7884179E8F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE39168-848E-478A-BAC3-969BC8153CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE39168-848E-478A-BAC3-969BC8153CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE39168-848E-478A-BAC3-969BC8153CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE39168-848E-478A-BAC3-969BC8153CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BE03F8-0452-4D76-A14F-71A03A26473B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BE03F8-0452-4D76-A14F-71A03A26473B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BE03F8-0452-4D76-A14F-71A03A26473B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BE03F8-0452-4D76-A14F-71A03A26473B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817625ED-292F-4075-AB1D-7884179E8F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817625ED-292F-4075-AB1D-7884179E8F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817625ED-292F-4075-AB1D-7884179E8F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817625ED-292F-4075-AB1D-7884179E8F84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F409D12-01EE-440D-9E20-8CC8EDBE5DCB}
+	EndGlobalSection
+EndGlobal
