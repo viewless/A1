@@ -14,17 +14,19 @@ namespace TicketSystem
             var context = new TicketsContext();
 
 
-            TakeLastCreatedTicket(context);
-
+           
             //Task2_2(context);
 
-            LastTicket(context);
+            TakeLastTicketCreated(context);
 
         }
 
-        private static void LastTicket(TicketsContext context)
+        private static void TakeLastTicketCreated(TicketsContext context)
         {
-            var lastTicket = context.Tickets.Select(ticket => ticket.TicketNumber).OrderByDescending(x => x).Take(1);
+            var lastTicket = context.Tickets
+                .OrderByDescending(x => x.DateOfCreation)
+                .Select(ticket => ticket.TicketNumber)
+                .Take(1);
 
             StringBuilder sb = new StringBuilder();
 
@@ -54,24 +56,6 @@ namespace TicketSystem
             .ToList();
         }
 
-        private static void TakeLastCreatedTicket(TicketsContext context)
-        {
-            StringBuilder sb = new StringBuilder();
-
-            var bookTitlePrice = context
-                .Tickets
-                .Where(x => x.TicketNumber > 40)
-                .Select(x => new
-                {
-                    Number = x.TicketNumber
-                }).ToList();
-
-            foreach (var book in bookTitlePrice)
-            {
-                sb.AppendLine($"{book.Number}");
-            }
-
-            Console.WriteLine(sb.ToString());
-        }
+       
     }
 }

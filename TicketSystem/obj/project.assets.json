@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Developer\\Default Projects Location\\Calculator\\TicketSystem\\TicketSystem.csproj",
+      "projectUniqueName": "D:\\Viewless Account\\Desktop\\А1 Project\\A1\\TicketSystem\\TicketSystem.csproj",
       "projectName": "TicketSystem",
-      "projectPath": "D:\\Developer\\Default Projects Location\\Calculator\\TicketSystem\\TicketSystem.csproj",
+      "projectPath": "D:\\Viewless Account\\Desktop\\А1 Project\\A1\\TicketSystem\\TicketSystem.csproj",
       "packagesPath": "C:\\Users\\Viewless\\.nuget\\packages\\",
-      "outputPath": "D:\\Developer\\Default Projects Location\\Calculator\\TicketSystem\\obj\\",
+      "outputPath": "D:\\Viewless Account\\Desktop\\А1 Project\\A1\\TicketSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

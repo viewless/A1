@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5tJEYa34eQzCc43Y+Xnb9lE86GwlxXrlEisBTxtVmsM+R0U1awu2XgzYmpCX475VWgIrz4yualbEDAgWskcGPQ==",
+  "dgSpecHash": "9VRV+Mk6ro+5Xe0HLTOoF44EIl7/908daRZoemUhkucSW49gLixfivAMOBfKXBjV7I0wBeQoISPqRfhHuNnapA==",
   "success": true,
-  "projectFilePath": "D:\\Developer\\Default Projects Location\\Calculator\\TicketSystem\\TicketSystem.csproj",
+  "projectFilePath": "D:\\Viewless Account\\Desktop\\А1 Project\\A1\\TicketSystem\\TicketSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viewless\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Viewless\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
